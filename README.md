@@ -1,21 +1,21 @@
-### Hi there 👋
+### Hi!🙂👋
 
 - 🎓 Completed a professional course in Python
-- 🔨My skills: Django, Web scraping, Data mining, API, SQL, HTML, XML, GitHub, JSON
-- 🌱 I’m currently still learning additional features and libraries
+- 🌱 Currently still learning additional features and libraries of Python
 - 🙂 Seeking employment opportunities in a great team
 
-<!--
-**sgfat/sgfat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My skills
+![Python](https://img.shields.io/badge/Python-3.7+-green)
+![Django](https://img.shields.io/badge/Django-2.2+-green)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4.0+-green)
+![python-telegram-bot](https://img.shields.io/badge/python_telegram_bot-20.0+-green)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Web scraping](https://img.shields.io/badge/-Web%20scraping-blue)
+![Data mining](https://img.shields.io/badge/-Data%20mining-blue)
+![API](https://img.shields.io/badge/-API-orange)
+![SQL](https://img.shields.io/badge/-SQL-orange)
+![HTML](https://img.shields.io/badge/-HTML-purple)
+![XML](https://img.shields.io/badge/-XML-purple)
+![JSON](https://img.shields.io/badge/-JSON-purple)
+![GitHub](https://img.shields.io/badge/-GitHub-black)
+![Docker](https://img.shields.io/badge/-Docker-blue)
