@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🎓 Completed a professional course in Python
+- 🔨My skills: Django, Web scraping, Data mining, API, SQL, HTML, XML, GitHub, JSON
+- 🌱 I’m currently still learning additional features and libraries
+- 🙂 Seeking employment opportunities in a great team
+
 <!--
 **sgfat/sgfat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
